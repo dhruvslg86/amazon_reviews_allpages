@@ -1,3 +1,4 @@
+[![Run on Repl.it](https://repl.it/badge/github/DavidRoldan523/amazon_reviews_allpages)](https://repl.it/github/DavidRoldan523/amazon_reviews_allpages)
 # Amazon Reviews all pages
 
 **Script to scrape all reviews on all Amazon pages**

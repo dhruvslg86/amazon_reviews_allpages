@@ -1,0 +1,2 @@
+language = "python3"
+run = "scraper_amazon_threading_version.py"
